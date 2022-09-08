@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Python38/.idea/Python38.iml" filepath="$PROJECT_DIR$/../../../../../Python38/.idea/Python38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/no.iml" filepath="$PROJECT_DIR$/.idea/no.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../.idea/priyaWork.iml" filepath="$PROJECT_DIR$/../../../.idea/priyaWork.iml" />
+      <module fileurl="file://$USER_HOME$/OneDrive/Documents/rip py/.idea/rip py.iml" filepath="$USER_HOME$/OneDrive/Documents/rip py/.idea/rip py.iml" />
+    </modules>
+  </component>
+</project>

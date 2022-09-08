@@ -1,0 +1,5 @@
+env
+mainapp/migrations
+db.sqlite3
+api/__pycache__
+mainapp/__pycache__
